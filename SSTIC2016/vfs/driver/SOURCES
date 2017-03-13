@@ -1,0 +1,5 @@
+TARGETNAME = drvSSTIC
+TARGETPATH = OBJ
+TARGETTYPE = DRIVER
+
+SOURCES = comm.c main.c rc6.c rc4.c disk.c vfs.c linked_list.c
