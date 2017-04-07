@@ -12,5 +12,7 @@ RE_AtariST
 ==========
 
 RE Challenge created for the GreHack 2015 CTF.
+
 The goal is to retrieve the special "cheat code" added in this rom that must be typed on the game's main menu to get to the last level.
+
 Free Beers for the one that will send me a solution ;)
